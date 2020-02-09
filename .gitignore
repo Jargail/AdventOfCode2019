@@ -30,3 +30,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Emacs temporary saved files ###
+*~
