@@ -1,2 +1,2 @@
-My solutions to AdventOfCode 2019
-They are in a manner of 'Just get it to work'
+# Advent of Code 2019
+My solutions are in a manner of 'Just get it to work'
